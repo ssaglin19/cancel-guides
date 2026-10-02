@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ssaglin19.github.io/cancel-guides/sitemap.xml
